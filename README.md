@@ -15,7 +15,7 @@
 
 - ⚡ Currently practicing **Problem Solving**
 
-- 🤝 I’m looking for a summer internship in data analytics **Artificial Intelligence**
+- 🤝 I’m looking for a summer internship in **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available on my  [Github](https://github.com/mzghofrane)
 
