@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://rishavchanda.io">
-    <img src="https://github.com/mzghofrane/mzghofrane/blob/main/cover.jpg" alt="Header Image">
+    <img src="https://github.com/mzghofrane/mzghofrane/blob/main/cover.png" alt="Header Image">
   </a>
 </p>
 <h1 align="center">Hi 👋, I'm Ghofrane Mzoughi</h1>
