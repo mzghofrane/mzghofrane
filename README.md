@@ -21,7 +21,7 @@
 
 - 📫 Reach me via **ghofranemzoughui@gmail.com**
 
-- 📄 Know more about me via [my resume](https://drive.google.com/file/d/1ZJS4Thj57vddHXkoMsg86SLmwBLH90VJ/view?usp=drive_link)
+- 📄 Know more about me via [my resume](https://drive.google.com/file/d/1WVO9PXPcfLX9jy-532WSmplXdtjtlulC/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
