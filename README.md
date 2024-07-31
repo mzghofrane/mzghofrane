@@ -21,8 +21,6 @@
 
 - 📫 Reach me via **ghofranemzoughui@gmail.com**
 
-- 📄 Know more about me via [my resume](https://drive.google.com/file/d/1WVO9PXPcfLX9jy-532WSmplXdtjtlulC/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ghofrane-mzoughi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ghofrane-mzoughi" height="30" width="40" /></a>
