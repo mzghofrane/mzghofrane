@@ -4,18 +4,17 @@
   </a>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Ghofrane Mzoughi</h1>
-<h3 align="center">Final-year Software Engineering Student | AI & Deep Learning Enthusiast | Tunisia 🇹🇳</h3>
+<h1 align="center">Hi there 👋, I'm Ghofrane</h1>
+<h3 align="center">Software Engineer | AI & ML Enthusiast | Deep Learning | Python | Lifelong Learner 🌱 | Tunisia 🇹🇳</h3>
 
 ---
 
 ## ✨ About Me
 
-🎓 I’m a final-year **Software Engineering** student at the Higher Institute of Computer Science (ISI), Tunisia.  
-💡 I hold a national license degree in Computer Science from the Faculty of Sciences of Tunis (FST), specialized in **software engineering and information systems**.  
-🤖 I’m passionate about **Artificial Intelligence**, especially **Deep Learning**, **Model Robustness**, and **Explainable AI (XAI)**.  
-🧠 In my academic projects, I’ve worked on **stress detection** from physiological signals (ECG, HRV) using hybrid deep neural networks (CNN-RNN), attention mechanisms, and adversarial perturbation techniques.  
-📊 I enjoy building intelligent systems that are **reliable, interpretable, and impactful**, particularly in domains like health and workplace safety.  
+🎓 Recently graduated from the Higher Institute of Computer Science - Tunisia (ISI), with a focus on **software engineering and information systems**. My academic journey strengthened my skills in **Python**, **algorithms**, **system design**, and **AI research**.
+💡 For my final-year project, I applied **CNNs, RNNs, attention mechanisms, and adversarial robustness techniques** to develop **AI-driven stress monitoring systems**, bridging real-world applications with advanced research.
+🧠 I’m passionate about building **intelligent**, **transparent**, and **trustworthy systems**, and solving complex, **data-driven problems** at the intersection of **research** and **application**.
+🌱 A lifelong learner, I thrive on **curiosity**, **collaboration**, and turning data into actionable insights.
 📫 Reach me at **ghofranemzoughui@gmail.com**
 
 ---
@@ -33,7 +32,7 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghofrane-mzoughi)  
-[![F6S](https://img.shields.io/badge/F6S-%2300b6e3.svg?style=flat&logo=f6s&logoColor=white)](https://www.f6s.com/ghofran-mzoughi)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ghofrane-Mzoughi)
 
 ---
 
