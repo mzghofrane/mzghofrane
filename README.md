@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Ghofrane</h1>
-<h3 align="center">Software Engineer | AI & ML Enthusiast | Deep Learning | Python | Lifelong Learner 🌱 | Tunisia 🇹🇳</h3>
+<h3 align="center">Software Engineer | AI & ML Enthusiast | Tunisia 🇹🇳</h3>
 
 ---
 
