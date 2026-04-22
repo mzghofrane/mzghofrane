@@ -97,8 +97,8 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=mzghofrane&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzghofrane&show_icons=true&theme=radical)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mzghofrane&icon=0&color=1)](https://visitcount.itsvg.in)
+![GitHub Streak](https://streak-stats.demolab.com?user=mzghofrane&theme=radical)
