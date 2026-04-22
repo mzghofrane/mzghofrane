@@ -5,60 +5,83 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Ghofrane</h1>
-<h3 align="center">Software Engineer | AI & ML Enthusiast | Tunisia 🇹🇳</h3>
+<h3 align="center">AI/ML Engineer &nbsp;|&nbsp; LLMs · RAG · Agentic AI &nbsp;|&nbsp; Python · PyTorch · FastAPI &nbsp;|&nbsp; Tunisia 🇹🇳</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ghofrane-mzoughi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.researchgate.net/profile/Ghofrane-Mzoughi"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white"/></a>
+  <a href="mailto:ghofranemzoughui@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
 ## ✨ About Me
 
-🎓 Recently graduated from the Higher Institute of Computer Science - Tunisia (ISI), with a focus on **software engineering and information systems**. My academic journey strengthened my skills in **Python**, **algorithms**, **system design**, and **AI research**.
-💡 For my final-year project, I applied **CNNs, RNNs, attention mechanisms, and adversarial robustness techniques** to develop **AI-driven stress monitoring systems**, bridging real-world applications with advanced research.
-🧠 I’m passionate about building **intelligent**, **transparent**, and **trustworthy systems**, and solving complex, **data-driven problems** at the intersection of **research** and **application**.
-🌱 A lifelong learner, I thrive on **curiosity**, **collaboration**, and turning data into actionable insights.
-📫 Reach me at **ghofranemzoughui@gmail.com**
+🎓 Recently graduated from **ISI Tunisia** — Software Engineering & AI focus.  
+🧠 Final-year project: **CNN/RNN + attention + adversarial robustness** for AI-driven stress monitoring systems.  
+🚀 Currently following a structured **AI/ML Engineer roadmap**: Python & APIs → Classical ML → LLMs & RAG → Agentic AI (LangGraph) → MLOps → Cloud (AWS, Azure).  
+🔨 Every phase = a **real, deployed, documented project**. I build to ship, not just to study.  
+🎯 **Actively seeking AI/ML Engineer roles** while building in public.  
+📫 **ghofranemzoughui@gmail.com**
 
 ---
 
-## 🧪 Featured Projects
+## 🧪 Projects
+
+### ✅ Research — Completed
 
 - 🧠 **ECG-Based Stress Surveillance**  
-  > A deep learning model (CNN + BiLSTM/GRU + attention) using ECG data from the WESAD dataset for predicting workplace stress and accident risks.
+  CNN + BiLSTM/GRU + attention mechanisms on the WESAD dataset. Adversarial robustness techniques applied for trustworthy stress prediction.
 
 - 🔬 **HRV-Based Real-Time Stress Detection**  
-  > Comparative analysis of 8 RNN architectures (LSTM, BiGRU, Peephole LSTM, etc.) applied to HRV signals for real-time binary stress classification (SWELL-KW dataset, 99.5% accuracy).
+  Comparative study of 8 RNN architectures (LSTM, BiGRU, Peephole LSTM, etc.) on SWELL-KW dataset. Achieved **99.5% accuracy** on binary stress classification.
 
 ---
 
-## 🌐 Connect with Me
+### 🔨 Building Now — May 2025 →
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ghofrane-mzoughi)  
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Ghofrane-Mzoughi)
+> Following a structured 8-phase roadmap toward production-grade AI/ML engineering.
+
+| # | Project | Stack | Phase | Status |
+|---|---------|-------|-------|--------|
+| 1 | **RAG Platform** | FAISS · ChromaDB · LangGraph · Groq | Phase 3 | 🔜 Starting May |
+| 2 | **Multi-Agent System** | LangGraph · Tool Use · LangSmith | Phase 4 | 🔜 Upcoming |
+| 3 | **ETL + MLOps Pipeline** | Airflow · MLflow · Docker · CI/CD | Phase 5 | 🔜 Upcoming |
+| 4 | **Fine-tuned LLM** | QLoRA · Llama 3 · HuggingFace Hub | Phase 6 | 🔜 Upcoming |
+| 5 | **Hybrid Search API** | Azure AI Search · BM25 · Vector · RRF | Phase 7 | 🔜 Upcoming |
 
 ---
 
 ## 💻 Tech Stack
 
+**AI / ML**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**LLMs / GenAI**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+**APIs & Deployment**  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Data & MLOps**  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
 
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=flat&logo=apachespark&logoColor=white)
-
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+**Cloud**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 ---
 
