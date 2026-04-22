@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/mzghofrane">
-    <img src="https://github.com/mzghofrane/mzghofrane/blob/main/cover.png" alt="Header Image">
-  </a>
-</p>
-
 <h1 align="center">Hi there 👋, I'm Ghofran</h1>
 <h3 align="center">AI/ML Engineer &nbsp;|&nbsp; LLMs · RAG · Agentic AI &nbsp;|&nbsp; Python · PyTorch · FastAPI &nbsp;|&nbsp; Tunisia 🇹🇳</h3>
 
