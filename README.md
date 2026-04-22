@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi there 👋, I'm Ghofrane</h1>
+<h1 align="center">Hi there 👋, I'm Ghofran</h1>
 <h3 align="center">AI/ML Engineer &nbsp;|&nbsp; LLMs · RAG · Agentic AI &nbsp;|&nbsp; Python · PyTorch · FastAPI &nbsp;|&nbsp; Tunisia 🇹🇳</h3>
 
 <p align="center">
@@ -38,13 +38,13 @@
 
 ---
 
-### 🔨 Building Now — May 2025 →
+### 🔨 Building Now →
 
 > Following a structured 8-phase roadmap toward production-grade AI/ML engineering.
 
 | # | Project | Stack | Phase | Status |
 |---|---------|-------|-------|--------|
-| 1 | **RAG Platform** | FAISS · ChromaDB · LangGraph · Groq | Phase 3 | 🔜 Starting May |
+| 1 | **RAG Platform** | FAISS · ChromaDB · LangGraph · Groq | Phase 3 | 🔜 Current |
 | 2 | **Multi-Agent System** | LangGraph · Tool Use · LangSmith | Phase 4 | 🔜 Upcoming |
 | 3 | **ETL + MLOps Pipeline** | Airflow · MLflow · Docker · CI/CD | Phase 5 | 🔜 Upcoming |
 | 4 | **Fine-tuned LLM** | QLoRA · Llama 3 · HuggingFace Hub | Phase 6 | 🔜 Upcoming |
