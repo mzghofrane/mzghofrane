@@ -91,8 +91,8 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzghofran&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mzghofrane&show_icons=true&theme=radical)
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mzghofran&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=mzghofrane&theme=radical)
